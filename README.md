@@ -1,6 +1,8 @@
 # flowerpowerparrot
 script to download data of parrot flower power sensors using 'powerpot' API
+
 Runs best in Anaconda using Spyder interface.
+
 To run, set working directory to where the scripts are; for now the output is written to subfolders in that folder
 Input_file.xls is used to set parameters (which flowerpower account, which sensors, which dates and other switches)
 Output with 15-minute data go to a folder indicating date/time/account and within that folder a folder per sensor
